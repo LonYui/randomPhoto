@@ -1,0 +1,6 @@
+framework module StreamChatSwiftUI {
+  umbrella header "StreamChatSwiftUI-umbrella.h"
+
+  export *
+  module * { export * }
+}

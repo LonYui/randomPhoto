@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-randomPhoto/Pods-randomPhoto-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Gifu/Gifu.framework
+${BUILT_PRODUCTS_DIR}/Nuke/Nuke.framework
+${BUILT_PRODUCTS_DIR}/NukeUI/NukeUI.framework
+${BUILT_PRODUCTS_DIR}/StreamChat/StreamChat.framework
+${BUILT_PRODUCTS_DIR}/StreamChatSwiftUI/StreamChatSwiftUI.framework
+${BUILT_PRODUCTS_DIR}/SwiftyGif/SwiftyGif.framework

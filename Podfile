@@ -5,7 +5,9 @@ target 'randomPhoto' do
   # Comment the next line if you don't want to use dynamic frameworks
   
   use_frameworks!
-
+  
+  # Pods for StreamAPI
+  pod 'StreamChatSwiftUI'
   # Pods for randomPhoto
 
 end
