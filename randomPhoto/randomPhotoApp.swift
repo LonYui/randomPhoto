@@ -31,17 +31,14 @@ class 初始程序c : NSObject ,UIApplicationDelegate {
         
         if 登入狀態{
             ChatClient.共用 = ChatClient(config: config)
-            ChatClient.共用.connectGuestUser(
-                        userInfo: .init(id: 使用者名稱)
-            ) { error in
-              if let error = error {
-                  print("Connection failed with: \(error)")
-                        }
-                        else {
-                 // User successfully connected
-                            print("登入成功\(self.使用者名稱)")
-              }
-                       }
+            ChatClient.共用.connectUser(userInfo: .init(id: 使用者名稱), token: .development(userId: 使用者名稱))
+            ChatClient.共用.currentUserController().reloadUserIfNeeded(completion: {(err) in
+                if let error = err{
+                    print("Connection failed with: \(error)")
+                }
+                print("\(self.使用者名稱)成功登入")
+            })
+
         }
         else{
             ChatClient.共用 = ChatClient(config: config)

@@ -29,6 +29,10 @@ struct ChannelView: View {
             }
         })
         .navigationTitle("頻道")
+        .onAppear(perform: {
+            streamData.聊天室s = nil
+            streamData.取得聊天室清單()
+        })
         .toolbar(content: {
             ToolbarItem(placement: .navigationBarTrailing){
                 Button(action:{
