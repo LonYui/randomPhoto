@@ -30,6 +30,7 @@
 		1515F4E428D1C666007D72B5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1573698028FD7C3300E43B53 /* Login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = "<group>"; };
 		1573698528FD7CF300E43B53 /* StreamViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamViewModel.swift; sourceTree = "<group>"; };
+		15BF1F6129093B2C004EA68E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		2D4E4E961E380D70F1BBBE7A /* Pods_randomPhoto.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_randomPhoto.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4182397DFF68CA56154F841 /* Pods-randomPhoto.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-randomPhoto.debug.xcconfig"; path = "Target Support Files/Pods-randomPhoto/Pods-randomPhoto.debug.xcconfig"; sourceTree = "<group>"; };
 		C5083726C18F4107B13CA2CC /* Pods-randomPhoto.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-randomPhoto.release.xcconfig"; path = "Target Support Files/Pods-randomPhoto/Pods-randomPhoto.release.xcconfig"; sourceTree = "<group>"; };
@@ -68,6 +69,7 @@
 		1515F4DC28D1C662007D72B5 /* randomPhoto */ = {
 			isa = PBXGroup;
 			children = (
+				15BF1F6129093B2C004EA68E /* Info.plist */,
 				1573698228FD7CA800E43B53 /* ViewModel */,
 				1573697F28FD7C2100E43B53 /* View */,
 				1515F4DD28D1C662007D72B5 /* randomPhotoApp.swift */,
@@ -372,11 +374,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = inloveAppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2.3;
 				DEVELOPMENT_ASSET_PATHS = "\"randomPhoto/Preview Content\"";
 				DEVELOPMENT_TEAM = 4JU67726UX;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = randomPhoto/Info.plist;
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "用於傳送給對方和作為大頭貼";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -386,7 +390,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1;
+				MARKETING_VERSION = 2;
 				PRODUCT_BUNDLE_IDENTIFIER = io.roarrr.random.photo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -402,11 +406,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = inloveAppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2.3;
 				DEVELOPMENT_ASSET_PATHS = "\"randomPhoto/Preview Content\"";
 				DEVELOPMENT_TEAM = 4JU67726UX;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = randomPhoto/Info.plist;
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "用於傳送給對方和作為大頭貼";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -416,7 +422,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1;
+				MARKETING_VERSION = 2;
 				PRODUCT_BUNDLE_IDENTIFIER = io.roarrr.random.photo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;

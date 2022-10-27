@@ -1,0 +1,491 @@
+2022-10-26 08:12:08 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fac8cc5da00; archive(resolved)="<IDEArchive: 0x7fac8c887610>", distributionTask(resolved)="2", distributionDestination(resolved)="2", distributionMethod(resolved)="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fac86ba62b0>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x7fac882866c0; teamID='4JU67726UX', teamName='DM&C Technology Co., Ltd.', teamType='Company', username='102701009@nccu.edu.tw', isFreeProvisioningTeam='0'>">
+	Chain (16, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fac8cc5da00; archive = "<IDEArchive: 0x7fac8c887610>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fac86ba62b0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fac882866c0; teamID='4JU67726UX', teamName='DM&C Technology Co., Ltd.', teamType='Company', username='102701009@nccu.edu.tw', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x7fac8cca0300; archive = "<IDEArchive: 0x7fac8c887610>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fac86ba62b0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fac882866c0; teamID='4JU67726UX', teamName='DM&C Technology Co., Ltd.', teamType='Company', username='102701009@nccu.edu.tw', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fac8ccc71d0; archive = "<IDEArchive: 0x7fac8c887610>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fac86ba62b0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fac882866c0; teamID='4JU67726UX', teamName='DM&C Technology Co., Ltd.', teamType='Company', username='102701009@nccu.edu.tw', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fac8c4cee80; archive = "<IDEArchive: 0x7fac8c887610>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fac86ba62b0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fac882866c0; teamID='4JU67726UX', teamName='DM&C Technology Co., Ltd.', teamType='Company', username='102701009@nccu.edu.tw', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fac8cc26710; archive = "<IDEArchive: 0x7fac8c887610>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fac86ba62b0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fac882866c0; teamID='4JU67726UX', teamName='DM&C Technology Co., Ltd.', teamType='Company', username='102701009@nccu.edu.tw', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fac76391be0; archive = "<IDEArchive: 0x7fac8c887610>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fac86ba62b0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fac882866c0; teamID='4JU67726UX', teamName='DM&C Technology Co., Ltd.', teamType='Company', username='102701009@nccu.edu.tw', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fac754f0000; archive = "<IDEArchive: 0x7fac8c887610>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fac86ba62b0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fac882866c0; teamID='4JU67726UX', teamName='DM&C Technology Co., Ltd.', teamType='Company', username='102701009@nccu.edu.tw', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fac8d1fae60; archive = "<IDEArchive: 0x7fac8c887610>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fac86ba62b0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fac882866c0; teamID='4JU67726UX', teamName='DM&C Technology Co., Ltd.', teamType='Company', username='102701009@nccu.edu.tw', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fac754e5e60; archive = "<IDEArchive: 0x7fac8c887610>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fac86ba62b0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fac882866c0; teamID='4JU67726UX', teamName='DM&C Technology Co., Ltd.', teamType='Company', username='102701009@nccu.edu.tw', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fac8c4c74a0; archive = "<IDEArchive: 0x7fac8c887610>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fac86ba62b0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fac882866c0; teamID='4JU67726UX', teamName='DM&C Technology Co., Ltd.', teamType='Company', username='102701009@nccu.edu.tw', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fac8cc16900; archive = "<IDEArchive: 0x7fac8c887610>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fac86ba62b0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fac882866c0; teamID='4JU67726UX', teamName='DM&C Technology Co., Ltd.', teamType='Company', username='102701009@nccu.edu.tw', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fac8cca57f0; archive = "<IDEArchive: 0x7fac8c887610>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fac86ba62b0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fac882866c0; teamID='4JU67726UX', teamName='DM&C Technology Co., Ltd.', teamType='Company', username='102701009@nccu.edu.tw', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fac8c252880; archive = "<IDEArchive: 0x7fac8c887610>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fac86ba62b0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fac882866c0; teamID='4JU67726UX', teamName='DM&C Technology Co., Ltd.', teamType='Company', username='102701009@nccu.edu.tw', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fac75456280; archive = "<IDEArchive: 0x7fac8c887610>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fac86ba62b0>", team="(null)">
+	<IDEDistributionContext: 0x7fac8c495b80; archive = "<IDEArchive: 0x7fac8c887610>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fac86ba62b0>", team="(null)">
+	<IDEDistributionContext: 0x7fac8bb2acb0; archive = "<IDEArchive: 0x7fac8c887610>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x7fac8cc5da00>
+2022-10-26 08:12:08 +0000  Processing step: IDEDistributionCreateDestRootStep
+2022-10-26 08:12:08 +0000  Processing step: IDEDistributionCopyItemStep
+2022-10-26 08:12:08 +0000  Running /usr/bin/ditto '-V' '/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app'
+2022-10-26 08:12:08 +0000  >>> Copying /Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app 
+2022-10-26 08:12:08 +0000  copying file ./_CodeSignature/CodeResources ... 
+2022-10-26 08:12:08 +0000  9981 bytes for ./_CodeSignature/CodeResources
+2022-10-26 08:12:08 +0000  copying file ./randomPhoto ... 
+2022-10-26 08:12:08 +0000  911920 bytes for ./randomPhoto
+copying file ./Assets.car ... 
+2022-10-26 08:12:08 +0000  294056 bytes for ./Assets.car
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/SwiftyGif.framework/_CodeSignature/CodeResources ... 
+2022-10-26 08:12:08 +0000  1798 bytes for ./Frameworks/SwiftyGif.framework/_CodeSignature/CodeResources
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/SwiftyGif.framework/SwiftyGif ... 
+2022-10-26 08:12:08 +0000  712592 bytes for ./Frameworks/SwiftyGif.framework/SwiftyGif
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/SwiftyGif.framework/Info.plist ... 
+2022-10-26 08:12:08 +0000  740 bytes for ./Frameworks/SwiftyGif.framework/Info.plist
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/StreamChat.framework/_CodeSignature/CodeResources ... 
+2022-10-26 08:12:08 +0000  2648 bytes for ./Frameworks/StreamChat.framework/_CodeSignature/CodeResources
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/StreamChat.framework/StreamChat ... 
+2022-10-26 08:12:08 +0000  35209344 bytes for ./Frameworks/StreamChat.framework/StreamChat
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/StreamChat.framework/StreamChat.bundle/StreamChatModel.momd/VersionInfo.plist ... 
+2022-10-26 08:12:08 +0000  1083 bytes for ./Frameworks/StreamChat.framework/StreamChat.bundle/StreamChatModel.momd/VersionInfo.plist
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/StreamChat.framework/StreamChat.bundle/StreamChatModel.momd/StreamChatModel.mom ... 
+2022-10-26 08:12:08 +0000  30041 bytes for ./Frameworks/StreamChat.framework/StreamChat.bundle/StreamChatModel.momd/StreamChatModel.mom
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/StreamChat.framework/StreamChat.bundle/Info.plist ... 
+2022-10-26 08:12:08 +0000  766 bytes for ./Frameworks/StreamChat.framework/StreamChat.bundle/Info.plist
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/StreamChat.framework/Info.plist ... 
+2022-10-26 08:12:08 +0000  791 bytes for ./Frameworks/StreamChat.framework/Info.plist
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/Gifu.framework/_CodeSignature/CodeResources ... 
+2022-10-26 08:12:08 +0000  1798 bytes for ./Frameworks/Gifu.framework/_CodeSignature/CodeResources
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/Gifu.framework/Gifu ... 
+2022-10-26 08:12:08 +0000  608464 bytes for ./Frameworks/Gifu.framework/Gifu
+copying file ./Frameworks/Gifu.framework/Info.plist ... 
+2022-10-26 08:12:08 +0000  730 bytes for ./Frameworks/Gifu.framework/Info.plist
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/StreamChatSwiftUI.framework/_CodeSignature/CodeResources ... 
+2022-10-26 08:12:08 +0000  3128 bytes for ./Frameworks/StreamChatSwiftUI.framework/_CodeSignature/CodeResources
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI.bundle/en.lproj/Localizable.strings ... 
+2022-10-26 08:12:08 +0000  6187 bytes for ./Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI.bundle/en.lproj/Localizable.strings
+copying file ./Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI.bundle/en.lproj/Localizable.stringsdict ... 
+2022-10-26 08:12:08 +0000  704 bytes for ./Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI.bundle/en.lproj/Localizable.stringsdict
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI.bundle/Assets.car ... 
+2022-10-26 08:12:08 +0000  1048760 bytes for ./Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI.bundle/Assets.car
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI.bundle/Info.plist ... 
+2022-10-26 08:12:08 +0000  782 bytes for ./Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI.bundle/Info.plist
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI ... 
+2022-10-26 08:12:08 +0000  29972336 bytes for ./Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/StreamChatSwiftUI.framework/Info.plist ... 
+807 bytes for ./Frameworks/StreamChatSwiftUI.framework/Info.plist
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/Nuke.framework/_CodeSignature/CodeResources ... 
+2022-10-26 08:12:08 +0000  1798 bytes for ./Frameworks/Nuke.framework/_CodeSignature/CodeResources
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/Nuke.framework/Info.plist ... 
+2022-10-26 08:12:08 +0000  779 bytes for ./Frameworks/Nuke.framework/Info.plist
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/Nuke.framework/Nuke ... 
+2022-10-26 08:12:08 +0000  5947984 bytes for ./Frameworks/Nuke.framework/Nuke
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/NukeUI.framework/_CodeSignature/CodeResources ... 
+2022-10-26 08:12:08 +0000  1798 bytes for ./Frameworks/NukeUI.framework/_CodeSignature/CodeResources
+2022-10-26 08:12:08 +0000  copying file ./Frameworks/NukeUI.framework/NukeUI ... 
+2022-10-26 08:12:08 +0000  967568 bytes for ./Frameworks/NukeUI.framework/NukeUI
+copying file ./Frameworks/NukeUI.framework/Info.plist ... 
+2022-10-26 08:12:08 +0000  782 bytes for ./Frameworks/NukeUI.framework/Info.plist
+2022-10-26 08:12:08 +0000  copying file ./embedded.mobileprovision ... 
+2022-10-26 08:12:08 +0000  14803 bytes for ./embedded.mobileprovision
+copying file ./Info.plist ... 
+2022-10-26 08:12:08 +0000  1345 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+2022-10-26 08:12:08 +0000  8 bytes for ./PkgInfo
+2022-10-26 08:12:08 +0000  /usr/bin/ditto exited with 0
+2022-10-26 08:12:08 +0000  Processing step: IDEDistributionEmbedProfileStep
+2022-10-26 08:12:08 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fac8cc5e410; bundleID='org.cocoapods.Gifu', path='<DVTFilePath:0x7fac8bb12800:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/Gifu.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac76f72aa0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8cca1d80; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.Gifu', executablePath='<DVTFilePath:0x7fac8c1f8880:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/Gifu.framework/Gifu'>', hardenedRuntime='0'>'>
+2022-10-26 08:12:08 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fac76bf0810; bundleID='org.cocoapods.Nuke', path='<DVTFilePath:0x7fac8bb10130:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/Nuke.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8bb296c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8cca1d80; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.Nuke', executablePath='<DVTFilePath:0x7fac8cb16ec0:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/Nuke.framework/Nuke'>', hardenedRuntime='0'>'>
+2022-10-26 08:12:08 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fac8ccf01b0; bundleID='org.cocoapods.NukeUI', path='<DVTFilePath:0x7fac8bb1ea10:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/NukeUI.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8c98e4b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8cc4e3c0; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.NukeUI', executablePath='<DVTFilePath:0x7fac8c20f1c0:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/NukeUI.framework/NukeUI'>', hardenedRuntime='0'>'>
+2022-10-26 08:12:08 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fac8c4d3e10; bundleID='org.cocoapods.StreamChat', path='<DVTFilePath:0x7fac78157d30:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/StreamChat.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8cc20080; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8cc869d0; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.StreamChat', executablePath='<DVTFilePath:0x7fac71771220:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/StreamChat.framework/StreamChat'>', hardenedRuntime='0'>'>
+2022-10-26 08:12:08 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fac8cc73790; bundleID='org.cocoapods.StreamChatSwiftUI', path='<DVTFilePath:0x7fac8c814000:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8816be60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac781c3570; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.StreamChatSwiftUI', executablePath='<DVTFilePath:0x7fac8c909240:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI'>', hardenedRuntime='0'>'>
+2022-10-26 08:12:08 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fac8c454460; bundleID='org.cocoapods.SwiftyGif', path='<DVTFilePath:0x7fac8bb25ea0:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/SwiftyGif.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8b3255f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8cc86d70; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.SwiftyGif', executablePath='<DVTFilePath:0x7fac78152c40:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/SwiftyGif.framework/SwiftyGif'>', hardenedRuntime='0'>'>
+2022-10-26 08:12:08 +0000  Processing step: IDEDistributionInfoPlistStep
+2022-10-26 08:12:08 +0000  Processing step: IDEDistributionItemRemovalStep
+2022-10-26 08:12:08 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2022-10-26 08:12:08 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2022-10-26 08:12:08 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2022-10-26 08:12:08 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2022-10-26 08:12:08 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2022-10-26 08:12:08 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/Gifu.framework/Gifu' '-l' '-keep_cs' '-o' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/Gifu.framework/Gifu'
+2022-10-26 08:12:08 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2022-10-26 08:12:08 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/Nuke.framework/Nuke' '-l' '-keep_cs' '-o' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/Nuke.framework/Nuke'
+2022-10-26 08:12:08 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2022-10-26 08:12:08 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/NukeUI.framework/NukeUI' '-l' '-keep_cs' '-o' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/NukeUI.framework/NukeUI'
+2022-10-26 08:12:08 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2022-10-26 08:12:08 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/StreamChat.framework/StreamChat' '-l' '-keep_cs' '-o' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/StreamChat.framework/StreamChat'
+2022-10-26 08:12:08 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2022-10-26 08:12:08 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI' '-l' '-keep_cs' '-o' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI'
+2022-10-26 08:12:08 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2022-10-26 08:12:08 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/SwiftyGif.framework/SwiftyGif' '-l' '-keep_cs' '-o' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/SwiftyGif.framework/SwiftyGif'
+2022-10-26 08:12:08 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2022-10-26 08:12:08 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/randomPhoto' '-l' '-keep_cs' '-o' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/randomPhoto'
+2022-10-26 08:12:08 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2022-10-26 08:12:08 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2022-10-26 08:12:08 +0000  Running /usr/bin/ditto '-V' '/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/BCSymbolMaps/88BD871A-7F0B-3551-B2FD-1E91A655B5F1.bcsymbolmap' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/BCSymbolMaps/88BD871A-7F0B-3551-B2FD-1E91A655B5F1.bcsymbolmap'
+2022-10-26 08:12:08 +0000  >>> Copying /Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/BCSymbolMaps/88BD871A-7F0B-3551-B2FD-1E91A655B5F1.bcsymbolmap 
+2022-10-26 08:12:08 +0000  copying file ./88BD871A-7F0B-3551-B2FD-1E91A655B5F1.bcsymbolmap ... 
+2022-10-26 08:12:08 +0000  76512 bytes for ./88BD871A-7F0B-3551-B2FD-1E91A655B5F1.bcsymbolmap
+2022-10-26 08:12:08 +0000  /usr/bin/ditto exited with 0
+2022-10-26 08:12:08 +0000  Running /usr/bin/ditto '-V' '/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/BCSymbolMaps/5C450B01-A53A-3458-95C3-B6C493C27A7C.bcsymbolmap' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/BCSymbolMaps/5C450B01-A53A-3458-95C3-B6C493C27A7C.bcsymbolmap'
+2022-10-26 08:12:08 +0000  >>> Copying /Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/BCSymbolMaps/5C450B01-A53A-3458-95C3-B6C493C27A7C.bcsymbolmap 
+2022-10-26 08:12:08 +0000  copying file ./5C450B01-A53A-3458-95C3-B6C493C27A7C.bcsymbolmap ... 
+2022-10-26 08:12:08 +0000  529194 bytes for ./5C450B01-A53A-3458-95C3-B6C493C27A7C.bcsymbolmap
+2022-10-26 08:12:08 +0000  /usr/bin/ditto exited with 0
+2022-10-26 08:12:08 +0000  Running /usr/bin/ditto '-V' '/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/BCSymbolMaps/2B120B50-B6EB-311D-BD76-D1FB4BB83028.bcsymbolmap' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/BCSymbolMaps/2B120B50-B6EB-311D-BD76-D1FB4BB83028.bcsymbolmap'
+2022-10-26 08:12:08 +0000  >>> Copying /Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/BCSymbolMaps/2B120B50-B6EB-311D-BD76-D1FB4BB83028.bcsymbolmap 
+2022-10-26 08:12:08 +0000  copying file ./2B120B50-B6EB-311D-BD76-D1FB4BB83028.bcsymbolmap ... 
+2022-10-26 08:12:08 +0000  80992 bytes for ./2B120B50-B6EB-311D-BD76-D1FB4BB83028.bcsymbolmap
+2022-10-26 08:12:08 +0000  /usr/bin/ditto exited with 0
+2022-10-26 08:12:08 +0000  Running /usr/bin/ditto '-V' '/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/BCSymbolMaps/EE22C281-617A-3470-A659-2B082D40350D.bcsymbolmap' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/BCSymbolMaps/EE22C281-617A-3470-A659-2B082D40350D.bcsymbolmap'
+2022-10-26 08:12:08 +0000  >>> Copying /Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/BCSymbolMaps/EE22C281-617A-3470-A659-2B082D40350D.bcsymbolmap 
+2022-10-26 08:12:08 +0000  copying file ./EE22C281-617A-3470-A659-2B082D40350D.bcsymbolmap ... 
+2022-10-26 08:12:08 +0000  3616606 bytes for ./EE22C281-617A-3470-A659-2B082D40350D.bcsymbolmap
+2022-10-26 08:12:08 +0000  /usr/bin/ditto exited with 0
+2022-10-26 08:12:08 +0000  Running /usr/bin/ditto '-V' '/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/BCSymbolMaps/A222CCA1-DE4E-3FD1-BF88-A3B9C3E86884.bcsymbolmap' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/BCSymbolMaps/A222CCA1-DE4E-3FD1-BF88-A3B9C3E86884.bcsymbolmap'
+2022-10-26 08:12:08 +0000  >>> Copying /Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/BCSymbolMaps/A222CCA1-DE4E-3FD1-BF88-A3B9C3E86884.bcsymbolmap 
+2022-10-26 08:12:08 +0000  copying file ./A222CCA1-DE4E-3FD1-BF88-A3B9C3E86884.bcsymbolmap ... 
+2022-10-26 08:12:08 +0000  3677500 bytes for ./A222CCA1-DE4E-3FD1-BF88-A3B9C3E86884.bcsymbolmap
+2022-10-26 08:12:08 +0000  /usr/bin/ditto exited with 0
+2022-10-26 08:12:08 +0000  Running /usr/bin/ditto '-V' '/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/BCSymbolMaps/F1FCA2F1-1402-3C5C-B529-3EAFA697C941.bcsymbolmap' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/BCSymbolMaps/F1FCA2F1-1402-3C5C-B529-3EAFA697C941.bcsymbolmap'
+2022-10-26 08:12:08 +0000  >>> Copying /Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/BCSymbolMaps/F1FCA2F1-1402-3C5C-B529-3EAFA697C941.bcsymbolmap 
+2022-10-26 08:12:08 +0000  copying file ./F1FCA2F1-1402-3C5C-B529-3EAFA697C941.bcsymbolmap ... 
+2022-10-26 08:12:08 +0000  86770 bytes for ./F1FCA2F1-1402-3C5C-B529-3EAFA697C941.bcsymbolmap
+2022-10-26 08:12:08 +0000  /usr/bin/ditto exited with 0
+2022-10-26 08:12:08 +0000  Running /usr/bin/ditto '-V' '/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/BCSymbolMaps/06998688-6E81-335E-8718-A77CD1BCAA37.bcsymbolmap' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/BCSymbolMaps/06998688-6E81-335E-8718-A77CD1BCAA37.bcsymbolmap'
+2022-10-26 08:12:08 +0000  >>> Copying /Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/BCSymbolMaps/06998688-6E81-335E-8718-A77CD1BCAA37.bcsymbolmap 
+2022-10-26 08:12:08 +0000  copying file ./06998688-6E81-335E-8718-A77CD1BCAA37.bcsymbolmap ... 
+2022-10-26 08:12:08 +0000  172155 bytes for ./06998688-6E81-335E-8718-A77CD1BCAA37.bcsymbolmap
+2022-10-26 08:12:08 +0000  /usr/bin/ditto exited with 0
+2022-10-26 08:12:08 +0000  Processing step: IDEDistributionSymbolsStep
+2022-10-26 08:12:08 +0000  Excluding symbols for Gifu.framework
+2022-10-26 08:12:08 +0000  Excluding symbols for Nuke.framework
+2022-10-26 08:12:08 +0000  Excluding symbols for NukeUI.framework
+2022-10-26 08:12:08 +0000  Excluding symbols for StreamChat.framework
+2022-10-26 08:12:08 +0000  Excluding symbols for StreamChatSwiftUI.framework
+2022-10-26 08:12:08 +0000  Excluding symbols for SwiftyGif.framework
+2022-10-26 08:12:08 +0000  Excluding symbols for randomPhoto.app
+2022-10-26 08:12:08 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2022-10-26 08:12:08 +0000  Processing step: IDEDistributionAppThinningStep
+2022-10-26 08:12:08 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2022-10-26 08:12:08 +0000  Processing step: IDEDistributionArchThinningStep
+2022-10-26 08:12:08 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/Gifu.framework/Gifu' '-verify_arch' 'arm64e'
+2022-10-26 08:12:08 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-10-26 08:12:08 +0000  Skipping architecture thinning for item "Gifu" because arch "arm64e" wasn't found
+2022-10-26 08:12:08 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/Nuke.framework/Nuke' '-verify_arch' 'arm64e'
+2022-10-26 08:12:08 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-10-26 08:12:08 +0000  Skipping architecture thinning for item "Nuke" because arch "arm64e" wasn't found
+2022-10-26 08:12:08 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/NukeUI.framework/NukeUI' '-verify_arch' 'arm64e'
+2022-10-26 08:12:08 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-10-26 08:12:08 +0000  Skipping architecture thinning for item "NukeUI" because arch "arm64e" wasn't found
+2022-10-26 08:12:08 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/StreamChat.framework/StreamChat' '-verify_arch' 'arm64e'
+2022-10-26 08:12:08 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-10-26 08:12:08 +0000  Skipping architecture thinning for item "StreamChat" because arch "arm64e" wasn't found
+2022-10-26 08:12:08 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI' '-verify_arch' 'arm64e'
+2022-10-26 08:12:08 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-10-26 08:12:08 +0000  Skipping architecture thinning for item "StreamChatSwiftUI" because arch "arm64e" wasn't found
+2022-10-26 08:12:08 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/SwiftyGif.framework/SwiftyGif' '-verify_arch' 'arm64e'
+2022-10-26 08:12:08 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-10-26 08:12:08 +0000  Skipping architecture thinning for item "SwiftyGif" because arch "arm64e" wasn't found
+2022-10-26 08:12:08 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/randomPhoto' '-verify_arch' 'arm64e'
+2022-10-26 08:12:08 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-10-26 08:12:08 +0000  Skipping architecture thinning for item "randomPhoto" because arch "arm64e" wasn't found
+2022-10-26 08:12:08 +0000  Processing step: IDEDistributionODRStep
+2022-10-26 08:12:08 +0000  Processing step: IDEDistributionStripXattrsStep
+2022-10-26 08:12:08 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fac8cc5e410; bundleID='org.cocoapods.Gifu', path='<DVTFilePath:0x7fac8bb12800:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/Gifu.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac76f72aa0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8ccabc80; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.Gifu', executablePath='<DVTFilePath:0x7fac8c1f8880:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/Gifu.framework/Gifu'>', hardenedRuntime='0'>'>
+2022-10-26 08:12:08 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fac76bf0810; bundleID='org.cocoapods.Nuke', path='<DVTFilePath:0x7fac8bb10130:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/Nuke.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8bb296c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8ccac290; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.Nuke', executablePath='<DVTFilePath:0x7fac8cb16ec0:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/Nuke.framework/Nuke'>', hardenedRuntime='0'>'>
+2022-10-26 08:12:08 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fac8ccf01b0; bundleID='org.cocoapods.NukeUI', path='<DVTFilePath:0x7fac8bb1ea10:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/NukeUI.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8c98e4b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8ccac990; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.NukeUI', executablePath='<DVTFilePath:0x7fac8c20f1c0:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/NukeUI.framework/NukeUI'>', hardenedRuntime='0'>'>
+2022-10-26 08:12:08 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fac8c4d3e10; bundleID='org.cocoapods.StreamChat', path='<DVTFilePath:0x7fac78157d30:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/StreamChat.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8cc20080; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8ccc6200; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.StreamChat', executablePath='<DVTFilePath:0x7fac71771220:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/StreamChat.framework/StreamChat'>', hardenedRuntime='0'>'>
+2022-10-26 08:12:08 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fac8cc73790; bundleID='org.cocoapods.StreamChatSwiftUI', path='<DVTFilePath:0x7fac8c814000:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8816be60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8ccc6390; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.StreamChatSwiftUI', executablePath='<DVTFilePath:0x7fac8c909240:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI'>', hardenedRuntime='0'>'>
+2022-10-26 08:12:08 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fac8c454460; bundleID='org.cocoapods.SwiftyGif', path='<DVTFilePath:0x7fac8bb25ea0:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/SwiftyGif.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8b3255f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8cc8ed60; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.SwiftyGif', executablePath='<DVTFilePath:0x7fac78152c40:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/SwiftyGif.framework/SwiftyGif'>', hardenedRuntime='0'>'>
+2022-10-26 08:12:08 +0000  Running /usr/bin/xattr '-crs' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app'
+2022-10-26 08:12:09 +0000  /usr/bin/xattr exited with 0
+2022-10-26 08:12:09 +0000  Processing step: IDEDistributionCodesignStep
+2022-10-26 08:12:09 +0000  Entitlements for <IDEDistributionItem: 0x7fac8cc5e410; bundleID='org.cocoapods.Gifu', path='<DVTFilePath:0x7fac8bb12800:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/Gifu.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac76f72aa0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8cc1c2a0; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.Gifu', executablePath='<DVTFilePath:0x7fac8c1f8880:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/Gifu.framework/Gifu'>', hardenedRuntime='0'>'>: {
+}
+2022-10-26 08:12:09 +0000  Entitlements for <IDEDistributionItem: 0x7fac8cc5e410; bundleID='org.cocoapods.Gifu', path='<DVTFilePath:0x7fac8bb12800:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/Gifu.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac76f72aa0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8ccc3a10; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.Gifu', executablePath='<DVTFilePath:0x7fac8c1f8880:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/Gifu.framework/Gifu'>', hardenedRuntime='0'>'> are: {
+}
+2022-10-26 08:12:09 +0000  Writing entitlements for <IDEDistributionItem: 0x7fac8cc5e410; bundleID='org.cocoapods.Gifu', path='<DVTFilePath:0x7fac8bb12800:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/Gifu.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac76f72aa0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8ccd5020; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.Gifu', executablePath='<DVTFilePath:0x7fac8c1f8880:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/Gifu.framework/Gifu'>', hardenedRuntime='0'>'> to: /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/entitlements~~~dEcVYS
+2022-10-26 08:12:09 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89DD45D0C55B04AA4E8AA62A43546EE63E2C3FC4' '--entitlements' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/entitlements~~~dEcVYS' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/Gifu.framework'
+2022-10-26 08:12:09 +0000  /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/Gifu.framework: replacing existing signature
+2022-10-26 08:12:09 +0000  /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/Gifu.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.Gifu]
+2022-10-26 08:12:09 +0000  /usr/bin/codesign exited with 0
+2022-10-26 08:12:09 +0000  Entitlements for <IDEDistributionItem: 0x7fac76bf0810; bundleID='org.cocoapods.Nuke', path='<DVTFilePath:0x7fac8bb10130:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/Nuke.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8bb296c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8c4c4240; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.Nuke', executablePath='<DVTFilePath:0x7fac8cb16ec0:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/Nuke.framework/Nuke'>', hardenedRuntime='0'>'>: {
+}
+2022-10-26 08:12:09 +0000  Entitlements for <IDEDistributionItem: 0x7fac76bf0810; bundleID='org.cocoapods.Nuke', path='<DVTFilePath:0x7fac8bb10130:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/Nuke.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8bb296c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8cc9cc20; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.Nuke', executablePath='<DVTFilePath:0x7fac8cb16ec0:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/Nuke.framework/Nuke'>', hardenedRuntime='0'>'> are: {
+}
+2022-10-26 08:12:09 +0000  Writing entitlements for <IDEDistributionItem: 0x7fac76bf0810; bundleID='org.cocoapods.Nuke', path='<DVTFilePath:0x7fac8bb10130:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/Nuke.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8bb296c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8cca4000; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.Nuke', executablePath='<DVTFilePath:0x7fac8cb16ec0:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/Nuke.framework/Nuke'>', hardenedRuntime='0'>'> to: /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/entitlements~~~vujMZB
+2022-10-26 08:12:09 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89DD45D0C55B04AA4E8AA62A43546EE63E2C3FC4' '--entitlements' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/entitlements~~~vujMZB' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/Nuke.framework'
+2022-10-26 08:12:09 +0000  /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/Nuke.framework: replacing existing signature
+2022-10-26 08:12:09 +0000  /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/Nuke.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.Nuke]
+2022-10-26 08:12:09 +0000  /usr/bin/codesign exited with 0
+2022-10-26 08:12:09 +0000  Entitlements for <IDEDistributionItem: 0x7fac8ccf01b0; bundleID='org.cocoapods.NukeUI', path='<DVTFilePath:0x7fac8bb1ea10:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/NukeUI.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8c98e4b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac7637d250; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.NukeUI', executablePath='<DVTFilePath:0x7fac8c20f1c0:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/NukeUI.framework/NukeUI'>', hardenedRuntime='0'>'>: {
+}
+2022-10-26 08:12:09 +0000  Entitlements for <IDEDistributionItem: 0x7fac8ccf01b0; bundleID='org.cocoapods.NukeUI', path='<DVTFilePath:0x7fac8bb1ea10:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/NukeUI.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8c98e4b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8c4b4cd0; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.NukeUI', executablePath='<DVTFilePath:0x7fac8c20f1c0:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/NukeUI.framework/NukeUI'>', hardenedRuntime='0'>'> are: {
+}
+2022-10-26 08:12:09 +0000  Writing entitlements for <IDEDistributionItem: 0x7fac8ccf01b0; bundleID='org.cocoapods.NukeUI', path='<DVTFilePath:0x7fac8bb1ea10:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/NukeUI.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8c98e4b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8cc84980; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.NukeUI', executablePath='<DVTFilePath:0x7fac8c20f1c0:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/NukeUI.framework/NukeUI'>', hardenedRuntime='0'>'> to: /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/entitlements~~~r3ma8Y
+2022-10-26 08:12:09 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89DD45D0C55B04AA4E8AA62A43546EE63E2C3FC4' '--entitlements' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/entitlements~~~r3ma8Y' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/NukeUI.framework'
+2022-10-26 08:12:09 +0000  /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/NukeUI.framework: replacing existing signature
+2022-10-26 08:12:09 +0000  /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/NukeUI.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.NukeUI]
+2022-10-26 08:12:09 +0000  /usr/bin/codesign exited with 0
+2022-10-26 08:12:09 +0000  Entitlements for <IDEDistributionItem: 0x7fac8c4d3e10; bundleID='org.cocoapods.StreamChat', path='<DVTFilePath:0x7fac78157d30:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/StreamChat.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8cc20080; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8c4f8460; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.StreamChat', executablePath='<DVTFilePath:0x7fac71771220:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/StreamChat.framework/StreamChat'>', hardenedRuntime='0'>'>: {
+}
+2022-10-26 08:12:09 +0000  Entitlements for <IDEDistributionItem: 0x7fac8c4d3e10; bundleID='org.cocoapods.StreamChat', path='<DVTFilePath:0x7fac78157d30:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/StreamChat.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8cc20080; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8ccd6420; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.StreamChat', executablePath='<DVTFilePath:0x7fac71771220:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/StreamChat.framework/StreamChat'>', hardenedRuntime='0'>'> are: {
+}
+2022-10-26 08:12:09 +0000  Writing entitlements for <IDEDistributionItem: 0x7fac8c4d3e10; bundleID='org.cocoapods.StreamChat', path='<DVTFilePath:0x7fac78157d30:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/StreamChat.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8cc20080; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8cca2740; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.StreamChat', executablePath='<DVTFilePath:0x7fac71771220:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/StreamChat.framework/StreamChat'>', hardenedRuntime='0'>'> to: /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/entitlements~~~VgF7zW
+2022-10-26 08:12:09 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89DD45D0C55B04AA4E8AA62A43546EE63E2C3FC4' '--entitlements' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/entitlements~~~VgF7zW' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/StreamChat.framework'
+2022-10-26 08:12:09 +0000  /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/StreamChat.framework: replacing existing signature
+2022-10-26 08:12:09 +0000  /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/StreamChat.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.StreamChat]
+2022-10-26 08:12:09 +0000  /usr/bin/codesign exited with 0
+2022-10-26 08:12:09 +0000  Entitlements for <IDEDistributionItem: 0x7fac8cc73790; bundleID='org.cocoapods.StreamChatSwiftUI', path='<DVTFilePath:0x7fac8c814000:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8816be60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8cc9cc50; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.StreamChatSwiftUI', executablePath='<DVTFilePath:0x7fac8c909240:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI'>', hardenedRuntime='0'>'>: {
+}
+2022-10-26 08:12:09 +0000  Entitlements for <IDEDistributionItem: 0x7fac8cc73790; bundleID='org.cocoapods.StreamChatSwiftUI', path='<DVTFilePath:0x7fac8c814000:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8816be60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8ccfe650; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.StreamChatSwiftUI', executablePath='<DVTFilePath:0x7fac8c909240:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI'>', hardenedRuntime='0'>'> are: {
+}
+2022-10-26 08:12:09 +0000  Writing entitlements for <IDEDistributionItem: 0x7fac8cc73790; bundleID='org.cocoapods.StreamChatSwiftUI', path='<DVTFilePath:0x7fac8c814000:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8816be60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8ccff6d0; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.StreamChatSwiftUI', executablePath='<DVTFilePath:0x7fac8c909240:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI'>', hardenedRuntime='0'>'> to: /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/entitlements~~~BY64mm
+2022-10-26 08:12:09 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89DD45D0C55B04AA4E8AA62A43546EE63E2C3FC4' '--entitlements' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/entitlements~~~BY64mm' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework'
+2022-10-26 08:12:09 +0000  /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework: replacing existing signature
+2022-10-26 08:12:09 +0000  /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework: signed bundle with Mach-O thin (arm64) [org.cocoapods.StreamChatSwiftUI]
+2022-10-26 08:12:09 +0000  /usr/bin/codesign exited with 0
+2022-10-26 08:12:09 +0000  Entitlements for <IDEDistributionItem: 0x7fac8c454460; bundleID='org.cocoapods.SwiftyGif', path='<DVTFilePath:0x7fac8bb25ea0:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/SwiftyGif.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8b3255f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8c465fd0; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.SwiftyGif', executablePath='<DVTFilePath:0x7fac78152c40:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/SwiftyGif.framework/SwiftyGif'>', hardenedRuntime='0'>'>: {
+}
+2022-10-26 08:12:09 +0000  Entitlements for <IDEDistributionItem: 0x7fac8c454460; bundleID='org.cocoapods.SwiftyGif', path='<DVTFilePath:0x7fac8bb25ea0:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/SwiftyGif.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8b3255f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8cc9cd20; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.SwiftyGif', executablePath='<DVTFilePath:0x7fac78152c40:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/SwiftyGif.framework/SwiftyGif'>', hardenedRuntime='0'>'> are: {
+}
+2022-10-26 08:12:09 +0000  Writing entitlements for <IDEDistributionItem: 0x7fac8c454460; bundleID='org.cocoapods.SwiftyGif', path='<DVTFilePath:0x7fac8bb25ea0:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/SwiftyGif.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8b3255f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8ccd5600; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='(null)', teamID='4JU67726UX', identifier='org.cocoapods.SwiftyGif', executablePath='<DVTFilePath:0x7fac78152c40:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/Frameworks/SwiftyGif.framework/SwiftyGif'>', hardenedRuntime='0'>'> to: /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/entitlements~~~qybX6s
+2022-10-26 08:12:09 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89DD45D0C55B04AA4E8AA62A43546EE63E2C3FC4' '--entitlements' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/entitlements~~~qybX6s' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/SwiftyGif.framework'
+2022-10-26 08:12:09 +0000  /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/SwiftyGif.framework: replacing existing signature
+2022-10-26 08:12:09 +0000  /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/SwiftyGif.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.SwiftyGif]
+2022-10-26 08:12:09 +0000  /usr/bin/codesign exited with 0
+2022-10-26 08:12:09 +0000  Entitlements for <IDEDistributionItem: 0x7fac781962e0; bundleID='io.roarrr.random.photo', path='<DVTFilePath:0x7fac8cbe7850:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8cb0bbc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8c4b3f00; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='{
+    "application-identifier" = "4JU67726UX.io.roarrr.random.photo";
+    "com.apple.developer.team-identifier" = 4JU67726UX;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "4JU67726UX.io.roarrr.random.photo"
+    );
+}', teamID='4JU67726UX', identifier='io.roarrr.random.photo', executablePath='<DVTFilePath:0x7fac75351320:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/randomPhoto'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "4JU67726UX.io.roarrr.random.photo";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 4JU67726UX;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "4JU67726UX.io.roarrr.random.photo"
+    );
+}
+2022-10-26 08:12:09 +0000  Entitlements for <IDEDistributionItem: 0x7fac781962e0; bundleID='io.roarrr.random.photo', path='<DVTFilePath:0x7fac8cbe7850:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8cb0bbc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac7818ce70; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='{
+    "application-identifier" = "4JU67726UX.io.roarrr.random.photo";
+    "com.apple.developer.team-identifier" = 4JU67726UX;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "4JU67726UX.io.roarrr.random.photo"
+    );
+}', teamID='4JU67726UX', identifier='io.roarrr.random.photo', executablePath='<DVTFilePath:0x7fac75351320:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/randomPhoto'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "4JU67726UX.io.roarrr.random.photo";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 4JU67726UX;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "4JU67726UX.io.roarrr.random.photo"
+    );
+}
+2022-10-26 08:12:09 +0000  Writing entitlements for <IDEDistributionItem: 0x7fac781962e0; bundleID='io.roarrr.random.photo', path='<DVTFilePath:0x7fac8cbe7850:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fac8cb0bbc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fac8cc84d00; name='Apple Development: Cheng TSUNG-HAN (RH65NSM8QY)', hash='3B6833DDBE035A2D270509EA2746EB982FDC9B6B', serialNumber='4BC6F6D5D7869317DF4C8379DBC8B740', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-09-19 08:09:43 +0000''>', entitlements='{
+    "application-identifier" = "4JU67726UX.io.roarrr.random.photo";
+    "com.apple.developer.team-identifier" = 4JU67726UX;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "4JU67726UX.io.roarrr.random.photo"
+    );
+}', teamID='4JU67726UX', identifier='io.roarrr.random.photo', executablePath='<DVTFilePath:0x7fac75351320:'/Users/tsung-han/Library/Developer/Xcode/Archives/2022-10-26/randomPhoto 2022-10-26, 4.08 PM.xcarchive/Products/Applications/randomPhoto.app/randomPhoto'>', hardenedRuntime='0'>'> to: /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/entitlements~~~4bZaQl
+2022-10-26 08:12:09 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '89DD45D0C55B04AA4E8AA62A43546EE63E2C3FC4' '--entitlements' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/entitlements~~~4bZaQl' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app'
+2022-10-26 08:12:09 +0000  /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app: replacing existing signature
+2022-10-26 08:12:10 +0000  /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app: signed app bundle with Mach-O thin (arm64) [io.roarrr.random.photo]
+2022-10-26 08:12:10 +0000  /usr/bin/codesign exited with 0
+2022-10-26 08:12:10 +0000  Processing step: IDEDistributionZipODRItemStep
+2022-10-26 08:12:10 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-10-26 08:12:10 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-10-26 08:12:10 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-10-26 08:12:10 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-10-26 08:12:10 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-10-26 08:12:10 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-10-26 08:12:10 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-10-26 08:12:10 +0000  Processing step: IDEDistributionCreateIPAStep
+2022-10-26 08:12:10 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root' '/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Packages/randomPhoto.ipa'
+2022-10-26 08:12:10 +0000  >>> Copying /var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root 
+2022-10-26 08:12:10 +0000  copying file ./BCSymbolMaps/88BD871A-7F0B-3551-B2FD-1E91A655B5F1.bcsymbolmap ... 
+2022-10-26 08:12:10 +0000  76512 bytes for ./BCSymbolMaps/88BD871A-7F0B-3551-B2FD-1E91A655B5F1.bcsymbolmap
+2022-10-26 08:12:10 +0000  copying file ./BCSymbolMaps/A222CCA1-DE4E-3FD1-BF88-A3B9C3E86884.bcsymbolmap ... 
+2022-10-26 08:12:10 +0000  3677500 bytes for ./BCSymbolMaps/A222CCA1-DE4E-3FD1-BF88-A3B9C3E86884.bcsymbolmap
+2022-10-26 08:12:10 +0000  copying file ./BCSymbolMaps/F1FCA2F1-1402-3C5C-B529-3EAFA697C941.bcsymbolmap ... 
+2022-10-26 08:12:10 +0000  86770 bytes for ./BCSymbolMaps/F1FCA2F1-1402-3C5C-B529-3EAFA697C941.bcsymbolmap
+2022-10-26 08:12:10 +0000  copying file ./BCSymbolMaps/06998688-6E81-335E-8718-A77CD1BCAA37.bcsymbolmap ... 
+2022-10-26 08:12:10 +0000  172155 bytes for ./BCSymbolMaps/06998688-6E81-335E-8718-A77CD1BCAA37.bcsymbolmap
+copying file ./BCSymbolMaps/5C450B01-A53A-3458-95C3-B6C493C27A7C.bcsymbolmap ... 
+2022-10-26 08:12:10 +0000  529194 bytes for ./BCSymbolMaps/5C450B01-A53A-3458-95C3-B6C493C27A7C.bcsymbolmap
+copying file ./BCSymbolMaps/2B120B50-B6EB-311D-BD76-D1FB4BB83028.bcsymbolmap ... 
+2022-10-26 08:12:10 +0000  80992 bytes for ./BCSymbolMaps/2B120B50-B6EB-311D-BD76-D1FB4BB83028.bcsymbolmap
+copying file ./BCSymbolMaps/EE22C281-617A-3470-A659-2B082D40350D.bcsymbolmap ... 
+2022-10-26 08:12:10 +0000  3616606 bytes for ./BCSymbolMaps/EE22C281-617A-3470-A659-2B082D40350D.bcsymbolmap
+2022-10-26 08:12:10 +0000  copying file ./Payload/randomPhoto.app/_CodeSignature/CodeResources ... 
+2022-10-26 08:12:10 +0000  9981 bytes for ./Payload/randomPhoto.app/_CodeSignature/CodeResources
+2022-10-26 08:12:10 +0000  copying file ./Payload/randomPhoto.app/randomPhoto ... 
+2022-10-26 08:12:10 +0000  741680 bytes for ./Payload/randomPhoto.app/randomPhoto
+copying file ./Payload/randomPhoto.app/Assets.car ... 
+2022-10-26 08:12:10 +0000  294056 bytes for ./Payload/randomPhoto.app/Assets.car
+2022-10-26 08:12:10 +0000  copying file ./Payload/randomPhoto.app/Frameworks/SwiftyGif.framework/_CodeSignature/CodeResources ... 
+2022-10-26 08:12:10 +0000  1798 bytes for ./Payload/randomPhoto.app/Frameworks/SwiftyGif.framework/_CodeSignature/CodeResources
+2022-10-26 08:12:10 +0000  copying file ./Payload/randomPhoto.app/Frameworks/SwiftyGif.framework/SwiftyGif ... 
+2022-10-26 08:12:10 +0000  522704 bytes for ./Payload/randomPhoto.app/Frameworks/SwiftyGif.framework/SwiftyGif
+copying file ./Payload/randomPhoto.app/Frameworks/SwiftyGif.framework/Info.plist ... 
+2022-10-26 08:12:10 +0000  732 bytes for ./Payload/randomPhoto.app/Frameworks/SwiftyGif.framework/Info.plist
+2022-10-26 08:12:10 +0000  copying file ./Payload/randomPhoto.app/Frameworks/StreamChat.framework/_CodeSignature/CodeResources ... 
+2022-10-26 08:12:10 +0000  2648 bytes for ./Payload/randomPhoto.app/Frameworks/StreamChat.framework/_CodeSignature/CodeResources
+2022-10-26 08:12:10 +0000  copying file ./Payload/randomPhoto.app/Frameworks/StreamChat.framework/StreamChat ... 
+2022-10-26 08:12:11 +0000  24048656 bytes for ./Payload/randomPhoto.app/Frameworks/StreamChat.framework/StreamChat
+2022-10-26 08:12:11 +0000  copying file ./Payload/randomPhoto.app/Frameworks/StreamChat.framework/StreamChat.bundle/StreamChatModel.momd/VersionInfo.plist ... 
+2022-10-26 08:12:11 +0000  1083 bytes for ./Payload/randomPhoto.app/Frameworks/StreamChat.framework/StreamChat.bundle/StreamChatModel.momd/VersionInfo.plist
+copying file ./Payload/randomPhoto.app/Frameworks/StreamChat.framework/StreamChat.bundle/StreamChatModel.momd/StreamChatModel.mom ... 
+2022-10-26 08:12:11 +0000  30041 bytes for ./Payload/randomPhoto.app/Frameworks/StreamChat.framework/StreamChat.bundle/StreamChatModel.momd/StreamChatModel.mom
+2022-10-26 08:12:11 +0000  copying file ./Payload/randomPhoto.app/Frameworks/StreamChat.framework/StreamChat.bundle/Info.plist ... 
+2022-10-26 08:12:11 +0000  766 bytes for ./Payload/randomPhoto.app/Frameworks/StreamChat.framework/StreamChat.bundle/Info.plist
+copying file ./Payload/randomPhoto.app/Frameworks/StreamChat.framework/Info.plist ... 
+2022-10-26 08:12:11 +0000  782 bytes for ./Payload/randomPhoto.app/Frameworks/StreamChat.framework/Info.plist
+2022-10-26 08:12:11 +0000  copying file ./Payload/randomPhoto.app/Frameworks/Gifu.framework/_CodeSignature/CodeResources ... 
+2022-10-26 08:12:11 +0000  1798 bytes for ./Payload/randomPhoto.app/Frameworks/Gifu.framework/_CodeSignature/CodeResources
+2022-10-26 08:12:11 +0000  copying file ./Payload/randomPhoto.app/Frameworks/Gifu.framework/Gifu ... 
+2022-10-26 08:12:11 +0000  463168 bytes for ./Payload/randomPhoto.app/Frameworks/Gifu.framework/Gifu
+copying file ./Payload/randomPhoto.app/Frameworks/Gifu.framework/Info.plist ... 
+2022-10-26 08:12:11 +0000  722 bytes for ./Payload/randomPhoto.app/Frameworks/Gifu.framework/Info.plist
+2022-10-26 08:12:11 +0000  copying file ./Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/_CodeSignature/CodeResources ... 
+2022-10-26 08:12:11 +0000  3128 bytes for ./Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/_CodeSignature/CodeResources
+2022-10-26 08:12:11 +0000  copying file ./Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI.bundle/en.lproj/Localizable.strings ... 
+2022-10-26 08:12:11 +0000  6187 bytes for ./Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI.bundle/en.lproj/Localizable.strings
+2022-10-26 08:12:11 +0000  copying file ./Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI.bundle/en.lproj/Localizable.stringsdict ... 
+2022-10-26 08:12:11 +0000  704 bytes for ./Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI.bundle/en.lproj/Localizable.stringsdict
+copying file ./Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI.bundle/Assets.car ... 
+2022-10-26 08:12:11 +0000  1048760 bytes for ./Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI.bundle/Assets.car
+copying file ./Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI.bundle/Info.plist ... 
+2022-10-26 08:12:11 +0000  782 bytes for ./Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI.bundle/Info.plist
+copying file ./Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI ... 
+2022-10-26 08:12:12 +0000  19849440 bytes for ./Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/StreamChatSwiftUI
+copying file ./Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/Info.plist ... 
+2022-10-26 08:12:12 +0000  798 bytes for ./Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework/Info.plist
+2022-10-26 08:12:12 +0000  copying file ./Payload/randomPhoto.app/Frameworks/Nuke.framework/_CodeSignature/CodeResources ... 
+2022-10-26 08:12:12 +0000  1798 bytes for ./Payload/randomPhoto.app/Frameworks/Nuke.framework/_CodeSignature/CodeResources
+2022-10-26 08:12:12 +0000  copying file ./Payload/randomPhoto.app/Frameworks/Nuke.framework/Info.plist ... 
+2022-10-26 08:12:12 +0000  770 bytes for ./Payload/randomPhoto.app/Frameworks/Nuke.framework/Info.plist
+copying file ./Payload/randomPhoto.app/Frameworks/Nuke.framework/Nuke ... 
+2022-10-26 08:12:12 +0000  4234224 bytes for ./Payload/randomPhoto.app/Frameworks/Nuke.framework/Nuke
+2022-10-26 08:12:12 +0000  copying file ./Payload/randomPhoto.app/Frameworks/NukeUI.framework/_CodeSignature/CodeResources ... 
+2022-10-26 08:12:12 +0000  1798 bytes for ./Payload/randomPhoto.app/Frameworks/NukeUI.framework/_CodeSignature/CodeResources
+copying file ./Payload/randomPhoto.app/Frameworks/NukeUI.framework/NukeUI ... 
+2022-10-26 08:12:12 +0000  669056 bytes for ./Payload/randomPhoto.app/Frameworks/NukeUI.framework/NukeUI
+copying file ./Payload/randomPhoto.app/Frameworks/NukeUI.framework/Info.plist ... 
+2022-10-26 08:12:12 +0000  774 bytes for ./Payload/randomPhoto.app/Frameworks/NukeUI.framework/Info.plist
+2022-10-26 08:12:12 +0000  copying file ./Payload/randomPhoto.app/embedded.mobileprovision ... 
+2022-10-26 08:12:12 +0000  16443 bytes for ./Payload/randomPhoto.app/embedded.mobileprovision
+copying file ./Payload/randomPhoto.app/Info.plist ... 
+2022-10-26 08:12:12 +0000  1345 bytes for ./Payload/randomPhoto.app/Info.plist
+copying file ./Payload/randomPhoto.app/PkgInfo ... 
+2022-10-26 08:12:12 +0000  8 bytes for ./Payload/randomPhoto.app/PkgInfo
+2022-10-26 08:12:12 +0000  /usr/bin/ditto exited with 0
+2022-10-26 08:12:12 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2022-10-26 08:12:12 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2022-10-26 08:12:12 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2022-10-26 08:12:12 +0000  IDEDistributionItem init <DVTFilePath:0x7fac75473c80:'/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/NukeUI.framework'>
+2022-10-26 08:12:12 +0000  IDEDistributionItem init <DVTFilePath:0x7fac8c4b4d80:'/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/StreamChat.framework'>
+2022-10-26 08:12:12 +0000  IDEDistributionItem init <DVTFilePath:0x7fac7637d1d0:'/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/StreamChatSwiftUI.framework'>
+2022-10-26 08:12:12 +0000  IDEDistributionItem init <DVTFilePath:0x7fac8cc41f10:'/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/Gifu.framework'>
+2022-10-26 08:12:12 +0000  IDEDistributionItem init <DVTFilePath:0x7fac8c4995b0:'/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/Nuke.framework'>
+2022-10-26 08:12:12 +0000  IDEDistributionItem init <DVTFilePath:0x7fac8c476eb0:'/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app/Frameworks/SwiftyGif.framework'>
+2022-10-26 08:12:12 +0000  IDEDistributionItem init <DVTFilePath:0x7fac8cc0a4e0:'/var/folders/v8/hnz8sl751k5bmbydc386br8c0000gn/T/XcodeDistPipeline.~~~3rzalk/Root/Payload/randomPhoto.app'>
+2022-10-26 08:12:12 +0000  Processing step: IDEDistributionCreateManifestStep
+2022-10-26 08:12:12 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
