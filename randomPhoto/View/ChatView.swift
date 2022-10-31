@@ -118,9 +118,13 @@ struct MessageBubble:View{
     var body: some View{
         VStack{
             Text("\(訊息.author.id):\(訊息.text)")
-            let s = 訊息.updatedAt.ISO8601Format() ?? Date.now.ISO8601Format()
+            
+            let format = Date.ISO8601FormatStyle.init(dateSeparator: .dash, dateTimeSeparator: .standard, timeZone:  TimeZone(secondsFromGMT: 8*3600)!)
+            //訊息時間
+            let s = 訊息.updatedAt.ISO8601Format(format) ?? Date.now.ISO8601Format(format)
             let subs = s.suffix(s.count-5).prefix(11)
-            Text(subs)
+            Text(subs )
+
         }
     }
     

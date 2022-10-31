@@ -83,8 +83,10 @@ struct _ChannelRow:View {
             VStack{
                 Text(String(channel.cid.id))
                 Text(listner.messages.first?.text ?? "😀")
+                
+                let format = Date.ISO8601FormatStyle.init(dateSeparator: .dash, dateTimeSeparator: .standard, timeZone:  TimeZone(secondsFromGMT: 8*3600)!)
                 //訊息時間
-                let s = channel.lastMessageAt?.ISO8601Format() ?? Date.now.ISO8601Format()
+                let s = channel.lastMessageAt?.ISO8601Format(format) ?? Date.now.ISO8601Format(format)
                 let subs = s.suffix(s.count-5).prefix(11)
                 Text(subs )
             }

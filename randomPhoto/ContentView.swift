@@ -35,9 +35,6 @@ struct ContentView: View {
         }
         .environmentObject(streamData)
         .alert(Text(streamData.錯誤訊息), isPresented: $streamData.是否發生錯誤, actions: {})
-//        .onAppear(perform: {
-//            streamData.取得聊天室清單()
-//        })
         .overlay(content: {
             ZStack{
                 if streamData.createNewChannel{
