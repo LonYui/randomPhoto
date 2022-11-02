@@ -89,6 +89,7 @@ struct _ChannelRow:View {
                 let s = channel.lastMessageAt?.ISO8601Format(format) ?? Date.now.ISO8601Format(format)
                 let subs = s.suffix(s.count-5).prefix(11)
                 Text(subs )
+                Text("未讀訊息:\(channel.unreadCount.messages)")
             }
         }
     }

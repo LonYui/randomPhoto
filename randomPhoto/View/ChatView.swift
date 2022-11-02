@@ -32,6 +32,7 @@ struct ChatView: View {
                 })
                 .onAppear(perform: {
                     reader.scrollTo("msg_view", anchor:.bottom)
+                    listner.controller.markRead()
                 })
             }
             HStack{
