@@ -45,7 +45,6 @@ struct ChatView: View {
         .navigationTitle(channel.cid.id)
         .toolbar(content: {
             ToolbarItem(placement: .navigationBarTrailing){
-                
                 Button(action:{
                     let alertHC = UIHostingController(rootView: MyAlert().environmentObject(listner))
 
@@ -53,11 +52,23 @@ struct ChatView: View {
                     alertHC.modalPresentationStyle = UIModalPresentationStyle.formSheet
 
                     UIApplication.shared.windows[0].rootViewController?.present(alertHC, animated: true)
-//                    listner.controller.addMembers(userIds: [UserId(將加入的userid)])
                 }, label:{
                     Text("Inv")
                 })
             }
+            ToolbarItem(placement: .navigationBarTrailing){
+                Button(action:{
+                    let alertHC = UIHostingController(rootView: MyAlert2().environmentObject(listner))
+
+                    alertHC.preferredContentSize = CGSize(width: 300, height: 200)
+                    alertHC.modalPresentationStyle = UIModalPresentationStyle.formSheet
+
+                    UIApplication.shared.windows[0].rootViewController?.present(alertHC, animated: true)
+                }, label:{
+                    Text("Del")
+                })
+            }
+
         })
     }
      
@@ -171,6 +182,45 @@ struct MyAlert: View {
     }
 }
 
+// from stack overflow 關鍵字 alert with textfield
+// 2 is for del comfirm
+struct MyAlert2: View {
+    @State private var text: String = ""
+    @EnvironmentObject var listner:ChatChannelController.ObservableObject
+
+    var body: some View {
+
+        VStack {
+            Text("確定刪除此聊天室").font(.headline).padding()
+
+//            TextField("Type text here", text: $text).textFieldStyle(.roundedBorder).padding()
+            Divider()
+            HStack {
+                Spacer()
+                Button(action: {
+                    UIApplication.shared.windows[0].rootViewController?.dismiss(animated: true, completion: {})
+                    listner.controller.deleteChannel()
+                }) {
+
+                    Text("刪除")
+                }
+                Spacer()
+
+                Divider()
+
+                Spacer()
+                Button(action: {
+                    UIApplication.shared.windows[0].rootViewController?.dismiss(animated: true, completion: {})
+                }) {
+                    Text("Cancel")
+                }
+                Spacer()
+            }.padding(0)
+
+
+            }.background(Color(white: 0.9))
+    }
+}
 //struct ChatView_Previews: PreviewProvider {
 //    static var previews: some View {
 //        ChatView()
