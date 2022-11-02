@@ -77,9 +77,6 @@ struct _ChannelRow:View {
         HStack{
             let channel = listner.controller.channel!
             Circle()
-                .overlay(content: {
-                    Text(String(channel.cid.id.first!))
-                })
             VStack{
                 Text(String(channel.cid.id))
                 Text(listner.messages.first?.text ?? "😀")
@@ -90,8 +87,21 @@ struct _ChannelRow:View {
                 let subs = s.suffix(s.count-5).prefix(11)
                 Text(subs )
                 Text("未讀訊息:\(channel.unreadCount.messages)")
+                if(onlineIndicatorShown(for: channel)){
+                    Text("在線")
+                }else{
+                    Text("離線")
+                }
             }
         }
     }
     
 }
+//copy from sample code
+public func onlineIndicatorShown(for channel: ChatChannel) -> Bool {
+    !channel.lastActiveMembers.filter { member in
+        member.isOnline && member.id != ChatClient.共用.currentUserId
+    }
+    .isEmpty
+}
+
