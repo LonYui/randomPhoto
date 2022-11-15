@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		0998A8A4F434063351FFA665 /* Pods_randomPhoto.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D4E4E961E380D70F1BBBE7A /* Pods_randomPhoto.framework */; };
+		0A5FD96529222D5C00DA6C4B /* PhotoPickerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A5FD96429222D5C00DA6C4B /* PhotoPickerModel.swift */; };
+		0A5FD9672922414900DA6C4B /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0A5FD9662922414900DA6C4B /* GoogleService-Info.plist */; };
 		1515F4DE28D1C662007D72B5 /* randomPhotoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1515F4DD28D1C662007D72B5 /* randomPhotoApp.swift */; };
 		1515F4E028D1C662007D72B5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1515F4DF28D1C662007D72B5 /* ContentView.swift */; };
 		1515F4E228D1C666007D72B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1515F4E128D1C666007D72B5 /* Assets.xcassets */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0A5FD96429222D5C00DA6C4B /* PhotoPickerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoPickerModel.swift; sourceTree = "<group>"; };
+		0A5FD9662922414900DA6C4B /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		1515F4DA28D1C662007D72B5 /* randomPhoto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = randomPhoto.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1515F4DD28D1C662007D72B5 /* randomPhotoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = randomPhotoApp.swift; sourceTree = "<group>"; };
 		1515F4DF28D1C662007D72B5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -37,6 +41,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0A5FD96329222CF300DA6C4B /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				0A5FD96429222D5C00DA6C4B /* PhotoPickerModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
 		1515F4D128D1C662007D72B5 = {
 			isa = PBXGroup;
 			children = (
@@ -58,6 +70,8 @@
 		1515F4DC28D1C662007D72B5 /* randomPhoto */ = {
 			isa = PBXGroup;
 			children = (
+				0A5FD9662922414900DA6C4B /* GoogleService-Info.plist */,
+				0A5FD96329222CF300DA6C4B /* ViewModel */,
 				1515F4DD28D1C662007D72B5 /* randomPhotoApp.swift */,
 				1515F4DF28D1C662007D72B5 /* ContentView.swift */,
 				1515F4E128D1C666007D72B5 /* Assets.xcassets */,
@@ -102,6 +116,7 @@
 				1515F4D628D1C662007D72B5 /* Sources */,
 				1515F4D728D1C662007D72B5 /* Frameworks */,
 				1515F4D828D1C662007D72B5 /* Resources */,
+				5CFF12624726A33E41BCCD45 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -152,6 +167,7 @@
 			files = (
 				1515F4E528D1C666007D72B5 /* Preview Assets.xcassets in Resources */,
 				1515F4E228D1C666007D72B5 /* Assets.xcassets in Resources */,
+				0A5FD9672922414900DA6C4B /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -180,6 +196,23 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
+		5CFF12624726A33E41BCCD45 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-randomPhoto/Pods-randomPhoto-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-randomPhoto/Pods-randomPhoto-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-randomPhoto/Pods-randomPhoto-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -187,6 +220,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A5FD96529222D5C00DA6C4B /* PhotoPickerModel.swift in Sources */,
 				1515F4E028D1C662007D72B5 /* ContentView.swift in Sources */,
 				1515F4DE28D1C662007D72B5 /* randomPhotoApp.swift in Sources */,
 			);
