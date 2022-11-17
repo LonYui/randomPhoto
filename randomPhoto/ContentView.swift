@@ -22,8 +22,9 @@ struct ContentView: View {
             Color.purple
                 .ignoresSafeArea()
             VStack{
-                Text("url:")
-                TextField("", text: $動態圖片url)
+                Text("asyncimage的url為:")
+                TextField("", text: $動態圖片url, axis: .vertical)
+                    .lineLimit(5...10)
                 //from 彼得潘 https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/swiftui-%E9%A1%AF%E7%A4%BA%E7%B6%B2%E8%B7%AF%E5%9C%96%E7%89%87%E7%9A%84-asyncimage-7bbc93971e27
                 AsyncImage(url: URL(string: 動態圖片url)){ image in
                     image
